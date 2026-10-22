@@ -1,0 +1,21 @@
+{
+  "id": "./",
+  "name": "Quỹ Đi Chơi — Sổ quỹ nhóm",
+  "short_name": "Quỹ Đi Chơi",
+  "description": "Quản lý quỹ, khoản thu, khoản chi, ứng và ủng hộ cho các chuyến đi chơi.",
+  "lang": "vi-VN",
+  "dir": "ltr",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "display_override": ["standalone", "minimal-ui"],
+  "orientation": "portrait-primary",
+  "background_color": "#f7f2e9",
+  "theme_color": "#273b31",
+  "prefer_related_applications": false,
+  "categories": ["finance", "utilities"],
+  "icons": [
+    { "src": "./icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "./icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
